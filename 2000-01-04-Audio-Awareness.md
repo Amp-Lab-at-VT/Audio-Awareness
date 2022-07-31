@@ -3,8 +3,8 @@ layout: project_template
 title: Audio Awareness
 description: Create audio circuits, measure parameters, correlate measurements with what you hear.
 date: 2000-01-04 09:00:00
-hero_image: /web/img/Audio-Awareness/open_house.png
-image: /web/img/Audio-Awareness/open_house.png
+hero_image: /web/img/Audio-Awareness/Hero.png
+image: /web/img/Audio-Awareness/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
