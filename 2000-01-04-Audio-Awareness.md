@@ -9,8 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Bob Lineberry
-Rich Dumene
+author: Bob Lineberry, Rich Dumene
 show_sidebar: false
 ---
 
