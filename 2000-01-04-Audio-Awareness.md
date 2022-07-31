@@ -21,7 +21,7 @@ Bob Lineberry
 Rich Dumene
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Audio-Awareness"" >Audio-Awareness</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Audio-Awareness" >Audio-Awareness</a>
 
 ## Photo
 
